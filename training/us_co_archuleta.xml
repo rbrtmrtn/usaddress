@@ -1,0 +1,10 @@
+<AddressCollection>
+  <AddressString><AddressNumber>532</AddressNumber> <StreetName>COUNTY</StreetName> <StreetName>ROAD</StreetName> <StreetName>234</StreetName> <PlaceName>PAGOSA</PlaceName> <PlaceName>SPRINGS</PlaceName> <StateName>CO</StateName> <ZipCode>81147</ZipCode></AddressString>
+  <AddressString><AddressNumber>1342</AddressNumber> <StreetName>COUNTY</StreetName> <StreetName>RD</StreetName> <StreetName>988</StreetName></AddressString>
+  <AddressString><AddressNumber>1232</AddressNumber> <StreetName>STATE</StreetName> <StreetName>HWY</StreetName> <StreetName>151</StreetName></AddressString>
+  <AddressString><AddressNumber>12553</AddressNumber> <StreetName>State</StreetName> <StreetName>Highway</StreetName> <StreetName>523</StreetName> <PlaceName>Arboles</PlaceName> <StateName>CO</StateName> <ZipCode>81121</ZipCode></AddressString>
+  <AddressString><AddressNumber>12553</AddressNumber> <StreetName>State</StreetName> <StreetName>Highway</StreetName> <StreetName>174</StreetName> <PlaceName>Arboles</PlaceName> <StateName>CO</StateName> <ZipCode>81121</ZipCode></AddressString>
+  <AddressString><AddressNumber>23734</AddressNumber> <StreetName>STATE</StreetName> <StreetName>HWY</StreetName> <StreetName>754,</StreetName> <PlaceName>Arboles,</PlaceName> <StateName>CO</StateName> <ZipCode>81121</ZipCode></AddressString>
+  <AddressString><AddressNumber>802</AddressNumber> <StreetName>COUNTY</StreetName> <StreetName>ROAD</StreetName> <StreetName>414</StreetName> <PlaceName>PAGOSA</PlaceName> <PlaceName>SPRINGS</PlaceName> <StateName>CO</StateName> <ZipCode>81147</ZipCode></AddressString>
+  <AddressString><AddressNumber>624</AddressNumber> <StreetName>Co</StreetName> <StreetName>Rd</StreetName> <StreetName>641,</StreetName> <PlaceName>Pagosa</PlaceName> <PlaceName>Springs,</PlaceName> <StateName>CO</StateName> <ZipCode>81147</ZipCode></AddressString>
+</AddressCollection>

@@ -1,0 +1,12 @@
+<AddressCollection>
+  <AddressString><AddressNumber>881</AddressNumber> <StreetName>Co</StreetName> <StreetName>Rd</StreetName> <StreetName>339,</StreetName> <PlaceName>Pagosa</PlaceName> <PlaceName>Springs,</PlaceName> <StateName>CO</StateName> <ZipCode>81147</ZipCode></AddressString>
+  <AddressString><AddressNumber>17834</AddressNumber> <StreetName>State</StreetName> <StreetName>Highway</StreetName> <StreetName>151</StreetName> <PlaceName>Arboles</PlaceName> <StateName>CO</StateName> <ZipCode>81121</ZipCode></AddressString>
+  <AddressString><AddressNumber>17834</AddressNumber> <StreetName>STATE</StreetName> <StreetName>HWY</StreetName> <StreetName>151,</StreetName> <PlaceName>Arboles,</PlaceName> <StateName>CO</StateName> <ZipCode>81121</ZipCode></AddressString>
+  <AddressString><AddressNumber>881</AddressNumber> <StreetName>COUNTY</StreetName> <StreetName>ROAD</StreetName> <StreetName>339</StreetName> <PlaceName>PAGOSA</PlaceName> <PlaceName>SPRINGS</PlaceName> <StateName>CO</StateName> <ZipCode>81147</ZipCode></AddressString>
+  <AddressString><AddressNumber>0</AddressNumber> <StreetName>STATE</StreetName> <StreetName>HWY</StreetName> <StreetName>151</StreetName></AddressString>
+  <AddressString><AddressNumber>0</AddressNumber> <StreetName>COUNTY</StreetName> <StreetName>RD</StreetName> <StreetName>975</StreetName></AddressString>
+  <AddressString><AddressNumber>881</AddressNumber> <StreetName>COUNTY</StreetName> <StreetName>ROAD</StreetName> <StreetName>339</StreetName> <PlaceName>PAGOSA</PlaceName> <PlaceName>SPRINGS</PlaceName> <StateName>CO</StateName> <ZipCode>81147</ZipCode></AddressString>
+  <AddressString><AddressNumber>17834</AddressNumber> <StreetName>State</StreetName> <StreetName>Highway</StreetName> <StreetName>151</StreetName> <PlaceName>Arboles</PlaceName> <StateName>CO</StateName> <ZipCode>81121</ZipCode></AddressString>
+  <AddressString><AddressNumber>881</AddressNumber> <StreetName>Co</StreetName> <StreetName>Rd</StreetName> <StreetName>339,</StreetName> <PlaceName>Pagosa</PlaceName> <PlaceName>Springs,</PlaceName> <StateName>CO</StateName> <ZipCode>81147</ZipCode></AddressString>
+  <AddressString><AddressNumber>17834</AddressNumber> <StreetName>STATE</StreetName> <StreetName>HWY</StreetName> <StreetName>151,</StreetName> <PlaceName>Arboles,</PlaceName> <StateName>CO</StateName> <ZipCode>81121</ZipCode></AddressString>
+</AddressCollection>
